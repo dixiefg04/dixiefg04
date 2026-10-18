@@ -11,7 +11,6 @@ Me interesa aprender nuevas tecnologías, desarrollar soluciones de software y s
 
 </div>
 
----
 
 <div align="center">
 
@@ -50,16 +49,14 @@ Me interesa aprender nuevas tecnologías, desarrollar soluciones de software y s
 
 </div>
 
----
-
 <div align="center">
 
-## 📊 GitHub Statistics
+## 📊 Estadisticas de Github
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=dixiefg04&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dixiefg04&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 
 </div>
