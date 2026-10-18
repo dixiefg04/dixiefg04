@@ -5,9 +5,9 @@
 
 ## ¡Hola! Bienvenido/a a mi perfil de GitHub 👋
 
-Soy Ingeniera en Ciencias de la Computación, recién graduada.
+Soy una Ingeniera en Ciencias de la Computación, recién graduada, y actualmente estoy cursando una **Maestría en Ciencia de Datos y Analítica de Negocios**.
 
-Me interesa aprender nuevas tecnologías, desarrollar soluciones de software y seguir creciendo profesionalmente en el área de tecnología.
+Me interesa aprender nuevas tecnologías, desarrollar soluciones de software y fortalecer mis conocimientos en análisis de datos y tecnología.
 
 </div>
 
